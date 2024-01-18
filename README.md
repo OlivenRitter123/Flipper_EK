@@ -13,11 +13,11 @@ Zuerst werden hier ein paar Basics geschildert. Ich werde eine Anleitung machen,
 Infrarot
 -
 
-<img width="256" alt="Infrarot1" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/9a264180-2a3f-4c8b-a744-856501f07dae">
-
 Es gibt 3 verschiedene Funktionen bei Infrarot.
 
 <img width="256" alt="Infrarot2" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/393ec367-70cc-4bff-b2b2-2454fef3eed9">
+
+<img width="256" alt="Infrarot1" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/9a264180-2a3f-4c8b-a744-856501f07dae">
 
 1. Universal Remotes
    
@@ -25,6 +25,7 @@ Es gibt 3 verschiedene Funktionen bei Infrarot.
   Signale bei den Universal Remotes.
 
 <img width="256" alt="Infrarot3" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/5e054948-0027-4663-8065-6dd653b2d704">
+
 <img width="128" alt="Infrarot4" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/10a55101-abd5-4970-86c0-6c3e24e70bc6">
 3. Learn New Remote
 
