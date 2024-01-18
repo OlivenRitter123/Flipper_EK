@@ -1,7 +1,7 @@
 # Inhaltsverzeichnis
 [Erste Schritte](https://github.com/OlivenRitter123/Flipper_EK/blob/main/README.md#erste-schritte)
--[Allgemeine Informationen](https://github.com/OlivenRitter123/Flipper_EK/blob/main/README.md#allgemeine-informationen)
--[Infrarot](https://github.com/OlivenRitter123/Flipper_EK/blob/main/README.md#infrarot)
+- [Allgemeine Informationen](https://github.com/OlivenRitter123/Flipper_EK/blob/main/README.md#allgemeine-informationen)
+- [Infrarot](https://github.com/OlivenRitter123/Flipper_EK/blob/main/README.md#infrarot)
 
 
 
