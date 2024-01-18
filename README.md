@@ -1,5 +1,5 @@
 # Inhaltsverzeichnis
-https://github.com/OlivenRitter123/Flipper_EK/blob/main/README.md#allgemeine-informationen
+[GitHub Pages](https://github.com/OlivenRitter123/Flipper_EK/blob/main/README.md#erste-schritte)
 
 
 # Erste Schritte
