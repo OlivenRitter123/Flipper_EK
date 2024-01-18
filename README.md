@@ -15,6 +15,7 @@ Es gibt 3 verschiedene Funktionen bei Infrarot.
 	Um ein neues Signal speichern zu können, muss man erst mit einer Fernbedienung den Knopf drücken, der gespeichert werden soll. Der Flipper nimmt das Signal auf, und kann es danach gleich simmulieren. Danach kann man das Signal 	auf dem Flipper speichern, damit man immer darauf zugreifen kann. Dafür muss man sich nur einen Namen ausdenken, damit man diese später unterscheiden kann.
 
 5. Saved Remotes
+   
 	Um dann auf die zuvor gespeicherten Infrarot-Signale wieder zugreifen zu können, muss man auf Saved Remotes klicken, und wählt sich sein Remote aus. Danach kann man es wieder simmulieren.
  
  
