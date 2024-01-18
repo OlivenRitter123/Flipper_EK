@@ -2,7 +2,7 @@
 [Erste Schritte](https://github.com/OlivenRitter123/Flipper_EK/blob/main/README.md#erste-schritte)
 - [Allgemeine Informationen](https://github.com/OlivenRitter123/Flipper_EK/blob/main/README.md#allgemeine-informationen)
 - [Infrarot](https://github.com/OlivenRitter123/Flipper_EK/blob/main/README.md#infrarot)
-- [NFC](https://github.com/OlivenRitter123/Flipper_EK/edit/main/README.md#erste-schritte)
+- [NFC](https://github.com/OlivenRitter123/Flipper_EK/tree/main#nfc)
 
 
 
