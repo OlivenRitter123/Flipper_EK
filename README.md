@@ -1,7 +1,8 @@
 # Erste Schritte
 Allgemeine Informationen
 -
-Zuerst werden hier ein paar Basics geschildert. Ich werde eine Anleitung machen, danach wobei ich Probleme hatte,  worauf man achten sollte. Quellen werden unten bei dem Quellenverzeichnis verlinkt.
+Zuerst werden hier ein paar Basics geschildert. Ich werde eine Anleitung machen, danach wobei ich Probleme hatte,  worauf man achten sollte. Quellen werden unten bei dem Quellenverzeichnis verlinkt. Danach werde ich eine Dokumentation über mein Bad-USB Projekt: Sicherheitsmaßnahme
+
 Infrarot
 -
 Es gibt 3 verschiedene Funktionen bei Infrarot. 
