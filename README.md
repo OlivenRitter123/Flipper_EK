@@ -2,7 +2,7 @@
 [Erste Schritte](https://github.com/OlivenRitter123/Flipper_EK/blob/main/README.md#erste-schritte)
 - [Allgemeine Informationen](https://github.com/OlivenRitter123/Flipper_EK/blob/main/README.md#allgemeine-informationen)
 - [Infrarot](https://github.com/OlivenRitter123/Flipper_EK/blob/main/README.md#infrarot)
-- [NFC](https://github.com/OlivenRitter123/Flipper_EK/tree/main#nfc)
+- [NFC](https://github.com/OlivenRitter123/Flipper_EK/tree/main?tab=readme-ov-file#nfc)
 - [qFlipper installieren + Funktionen](https://github.com/OlivenRitter123/Flipper_EK/tree/main?tab=readme-ov-file#qflipper-installieren--funktionen)
 
 [Bad_USB](https://github.com/OlivenRitter123/Flipper_EK/tree/main?tab=readme-ov-file#bad-usb)
