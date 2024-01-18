@@ -70,17 +70,22 @@ Dabei gibt es wieder 3 wichtige Funktionen:
 Es gibt zwei weitere Funktionen, die ich aber nicht verwendet habe und ich sie somit nicht aufzähle. Ich fand auch das NFC Tool sehr einfach zu bedienen. Ich habe damit z.B. meine Kreditkarte, Schülerausweis und die E-Card eingelesen, jedoch habe ich diese drei nie irgendwo simuliert.
 Es ist auch zu achten, dass wenn man die kreditkarte einließt, dass man damit nicht zahlen kann, da einige Teile geschützt sind.
 
-
-
-	
-
-
-
-
-
-
-
+qFlipper installieren + Funktionen
 -
+qFlipper ist ein Programm am PC was die nächsten Schritte deutlich vereinfacht. Außerdem kann man dort Updates installieren und den Flipper digital steuern. 
+Zuerst musst du dir qFlipper [hier](https://flipperzero.one/update) ruterladen. Nachdem man sich mit dem Flipper verbunden hat kann man sich ersteinmal das Update herrunterladen. 
+	
+<img width="415" alt="qFlipper1" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/8ebc8f40-a325-413b-b1a8-f77477af7c56">
+
+Wenn man auf den Flipper auf der Seite drückt, kann man den Flipper von dort aus steuern. Das kann sehr praktisch sein, da man damit gut Screenshots machen kann.
+
+# Bad-USB
+
+Mein Hauptprojekt für diese EK ist es, einen Bad USB mit einem Ducky Script zu codem. Meine Idee war es, auf Knopfdruck einen Sicherheitsmechanismus auszulösen. Dieser soll den Ton stummschalten, und danach den Laptop sperren. Außerdem sollte das Programm noch ein Fenster schließen können, jedoch hätte das nicht immer geklappt, da Vollbildmodus eingeschalten sein kann. 
+
+Vorbereitungen
+-
+Das Erste, nach was ich gesucht habe, waren Ducky Scripts Tutorials und eine ganze Command List mit Commands, die mit dem Flipper kompatibel sind. Hier ist das [Ducky Script Tutorial](https://docs.hak5.org/hak5-usb-rubber-ducky), was ich verwendet habe und hier die [Script Liste](https://gist.github.com/methanoliver/efebfe8f4008e167417d4ab96e5e3cac). 
 
  
  
