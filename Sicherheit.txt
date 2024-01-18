@@ -1,0 +1,32 @@
+REM Title: Sicherheitsmaßnahme
+REM Author: OlivenRitter123
+REM Target: Win 10+
+REM Tested: Win 11
+REM Version 1.0
+REM Category FUN
+REM Schaltet den Ton stumm und sperrt den PC als Sicherheitsmaßnahme
+REM Windows + r
+GUI r
+
+REM Pause für 500ms
+DELAY 500
+
+REM Öffnet Powershell durch GUI r
+STRING powershell
+
+REM Drückt Enter
+ENTER
+
+DELAY 1000
+
+REM Führt den Command mutesysvolume vom Programm nircmd.exe | mutesysvolume stummt den Ton | mutesysvolume 0 würde den Ton wieder aufdrehen
+STRING nircmd.exe mutesysvolume 1
+
+ENTER
+
+DELAY 200
+
+REM Win l | Sperrt Bildschirm
+GUI l
+
+ENTER
