@@ -27,6 +27,7 @@ Es gibt 3 verschiedene Funktionen bei Infrarot.
 <img width="256" alt="Infrarot3" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/5e054948-0027-4663-8065-6dd653b2d704">
 
 <img width="128" alt="Infrarot4" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/10a55101-abd5-4970-86c0-6c3e24e70bc6">
+
 3. Learn New Remote
 
   Um ein neues Signal speichern zu können, muss man erst mit einer Fernbedienung den Knopf drücken, der gespeichert werden soll. Der Flipper nimmt das Signal auf, und kann es danach gleich simmulieren. Danach kann man das Signal 	 
