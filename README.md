@@ -41,6 +41,7 @@ Es gibt 3 verschiedene Funktionen bei Infrarot.
   <img width="256" alt="Infrarot5" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/1abf6015-6633-4b20-a8e6-35f24600fd73">
 
 NFC
+-
 
 
 
