@@ -7,7 +7,9 @@
 
 [Bad_USB](https://github.com/OlivenRitter123/Flipper_EK/tree/main?tab=readme-ov-file#bad-usb)
 - [Vorbereitungen](https://github.com/OlivenRitter123/Flipper_EK/tree/main?tab=readme-ov-file#vorbereitungen)
-
+- [Commands](https://github.com/OlivenRitter123/Flipper_EK/tree/main?tab=readme-ov-file#commands)
+- [Probleme](https://github.com/OlivenRitter123/Flipper_EK/tree/main?tab=readme-ov-file#probleme)
+- [Testen](https://github.com/OlivenRitter123/Flipper_EK/tree/main?tab=readme-ov-file#testen)
 
 # Erste Schritte
 Allgemeine Informationen
@@ -95,9 +97,13 @@ Commands
 Hier sind jetzt ein paar Commands aufgelistet, die versuche zu erklären.
 
 REM -Kommentar
+
 STRING -Gibt alles ein, was hinter STRING steht (STRING abc123!.?)
+
 GUI -Windows Taste (in Kombination GUI r)
+
 DELAY -Delay in Millisekunden
+
 ENTER -Enter Taste (gleich wie CTRL, ALT, SHIFT)
 
 Mehr [hier](https://gist.github.com/methanoliver/efebfe8f4008e167417d4ab96e5e3cac)
