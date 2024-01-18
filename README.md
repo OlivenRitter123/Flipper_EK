@@ -82,7 +82,7 @@ Zuerst musst du dir qFlipper [hier](https://flipperzero.one/update) ruterladen. 
 
 Wenn man auf den Flipper auf der Seite drückt, kann man den Flipper von dort aus steuern. Das kann sehr praktisch sein, da man damit gut Screenshots machen kann.
 
-# Bad-USB
+# Bad-USB Projekt
 
 Mein Hauptprojekt für diese EK ist es, einen Bad USB mit einem Ducky Script zu codem. Meine Idee war es, auf Knopfdruck einen Sicherheitsmechanismus auszulösen. Dieser soll den Ton stummschalten, und danach den Laptop sperren. Außerdem sollte das Programm noch ein Fenster schließen können, jedoch hätte das nicht immer geklappt, da Vollbildmodus eingeschalten sein kann. 
 
@@ -90,7 +90,46 @@ Vorbereitungen
 -
 Das Erste, nach was ich gesucht habe, waren Ducky Scripts Tutorials und eine ganze Command List mit Commands, die mit dem Flipper kompatibel sind. Hier ist das [Ducky Script Tutorial](https://docs.hak5.org/hak5-usb-rubber-ducky), was ich verwendet habe und hier die [Script Liste](https://gist.github.com/methanoliver/efebfe8f4008e167417d4ab96e5e3cac). 
 
- 
+Commands
+-
+Hier sind jetzt ein paar Commands aufgelistet, die versuche zu erklären.
+
+REM -Kommentar
+STRING -Gibt alles ein, was hinter STRING steht (STRING abc123!.?)
+GUI -Windows Taste (in Kombination GUI r)
+DELAY -Delay in Millisekunden
+ENTER -Enter Taste (gleich wie CTRL, ALT, SHIFT)
+
+Mehr [hier](https://gist.github.com/methanoliver/efebfe8f4008e167417d4ab96e5e3cac)
+
+Probleme
+-
+Da ich das System in der Powershell stummschalten möchte, gab es ein Problem. Es gibt keinen Command, dass man den Ton leiser drehen kann, oder stummen. Deshalb habe ich im Internet nach Lösungen gesucht und habe [das](https://www.nirsoft.net/utils/nircmd.html) gefunden. Auf NirSoft gibt es das Programm NirCmd. Dieses habe ich mir runtergeladen und ausgeführt. 
+
+<img width="251" alt="NirCmd" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/f43b8adf-31e1-44ae-8197-7d6cd7ebc15b">
+
+Wichtig ist es, das Programm als Adminstrator auszuführen und auf Copy to Windows Directory zu drücken. Danach konnte ich mit einem einfachem Command die Systemlautstärke abdrehen.
+
+Testen
+-
+Um ein Script auf dem Flipper auszuführen muss man das Script auf dem Laptop als txt speichern. Danach muss man qFlipper öffen und dann zum File Tab wechseln. 
+
+<img width="413" alt="BADUSB" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/9b3e2383-507f-47b0-bdff-d2c4897b94a6">
+
+Danach muss man den Ordner bad-usb finden. Danach kann man das File per drag and drop in den Ordner schieben. Auf dem Flipper muss man dann Bad USB auswählen, das Script auswählen und ausführen. Danach läuft das Script automatisch.
+
+<img width="256" alt="BadUSB2" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/dfc7f090-aba0-4cab-b662-04714b75d75f">
+
+Das war der Beginner Guide + EK Projekt. Im Repository ist jetzt noch das Script dabei, mit vielen Kommentaren, damit man den Code verstehen kann. 
+
+Für mehr Scripte (BAD-USB Sammulung) einfach [hier klicken](https://github.com/UberGuidoZ/Flipper/tree/main) (Sammlung nicht von mir)
+
+Außerdem kann ich [dieses Github Repository](https://github.com/djsime1/awesome-flipperzero?tab=readme-ov-file) für Anfänger sehr empfehlen.
+
+
+
+
+
  
 	
 
