@@ -28,7 +28,6 @@ Es gibt 3 verschiedene Funktionen bei Infrarot.
 
 <img width="128" alt="Infrarot4" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/10a55101-abd5-4970-86c0-6c3e24e70bc6">
 
-
 2. Learn New Remote
 
   Um ein neues Signal speichern zu können, muss man erst mit einer Fernbedienung den Knopf drücken, der gespeichert werden soll. Der Flipper nimmt das Signal auf, und kann es danach gleich simmulieren. Danach kann man das Signal 	 
@@ -45,9 +44,12 @@ Meiner Meinung ist diese Funktion sehr einfach zu bedienen. Ich konnte damit ein
 
 NFC
 -
-Durch NFCs kann man Karten in den Flipper einscannen, und diese simmulieren und dann noch speichern. Dies isr auch sehr einfach zu bediehnen. 
+Durch NFCs kann man Karten in den Flipper einscannen, und diese simmulieren und dann noch speichern. Dies ist auch sehr einfach zu bediehnen.
 
 Dabei gibt es wieder 3 wichtige Funktionen:
+
+<img width="256" alt="NFC2" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/ec60f160-2c58-4f4b-a4a2-3f513471830a">
+<img width="256" alt="NFC1" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/f5a4fe89-1637-4540-942a-d4b0e0dd8b6b">
 
 1. Read
 	
@@ -60,6 +62,9 @@ Dabei gibt es wieder 3 wichtige Funktionen:
 3. Saved
 
 	Hier kann man alle gespeicherten Karten wieder simulieren, editieren, umbenennen oder löschen.
+
+<img width="256" alt="NFC4" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/e7c23d42-c0dd-4d8c-8121-79f0eedfc65e">
+<img width="256" alt="NFC3" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/515ccda5-6cad-443b-94be-7c3fc85e2448">
 	
 Es gibt zwei weitere Funktionen, die ich aber nicht verwendet habe und ich sie somit nicht aufzähle. Ich fand auch das NFC Tool sehr einfach zu bedienen. Ich habe damit z.B. meine Kreditkarte, Schülerausweis und die E-Card eingelesen, jedoch habe ich diese drei nie irgendwo simuliert.
 Es ist auch zu achten, dass wenn man die kreditkarte einließt, dass man damit nicht zahlen kann, da einige Teile geschützt sind.
