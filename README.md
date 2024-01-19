@@ -14,7 +14,7 @@
 # Erste Schritte
 Allgemeine Informationen
 -
-Zuerst werden hier ein paar Basics geschildert. Ich werde eine Anleitung machen, danach wobei ich Probleme hatte,  worauf man achten sollte. Quellen werden . Danach werde ich eine Dokumentation über mein Bad-USB Projekt: Sicherheitsmaßnahme. Screenshots werden von der Desktop App qFlipper gemacht.
+Zuerst werden hier ein paar Basics geschildert. Ich werde eine Anleitung machen, danach wobei ich Probleme hatte,  worauf man achten sollte. Danach werde ich eine Dokumentation über mein Bad-USB Projekt: Sicherheitsmaßnahme. Screenshots werden von der Desktop App qFlipper gemacht.
 
 Infrarot
 -
