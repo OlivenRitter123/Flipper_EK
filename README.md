@@ -14,7 +14,7 @@
 # Erste Schritte
 Allgemeine Informationen
 -
-Zuerst werden hier ein paar Basics geschildert. Ich werde eine Anleitung machen, danach wobei ich Probleme hatte,  worauf man achten sollte. Quellen werden unten bei dem Quellenverzeichnis verlinkt. Danach werde ich eine Dokumentation über mein Bad-USB Projekt: Sicherheitsmaßnahme. Screenshots werden von der Desktop App qFlipper gemacht.
+Zuerst werden hier ein paar Basics geschildert. Ich werde eine Anleitung machen, danach wobei ich Probleme hatte,  worauf man achten sollte. Quellen werden . Danach werde ich eine Dokumentation über mein Bad-USB Projekt: Sicherheitsmaßnahme. Screenshots werden von der Desktop App qFlipper gemacht.
 
 Infrarot
 -
@@ -27,7 +27,7 @@ Es gibt 3 verschiedene Funktionen bei Infrarot.
 
 1. Universal Remotes
    
-	Damit kann man 4 verschiedene Geräte auswählen: TVs, Projektoren, Audio Players und Klimaanalagen. Je nach Gerät hat man die Chance die Geräte abzudrehen oder aufzudrehen, aber auch abzudrehen. Man hat aber nur begrenzte 		      
+	Damit kann man 4 verschiedene Geräte auswählen: TVs, Projektoren, Audio Players und Klimaanalagen. Je nach Gerät hat man die Chance die Geräte abzudrehen oder aufzudrehen, aber auch lauter/leiser zu machen. Man hat aber nur begrenzte 		      
   Signale bei den Universal Remotes.
 
 <img width="256" alt="Infrarot3" src="https://github.com/OlivenRitter123/Flipper_EK/assets/126650904/5e054948-0027-4663-8065-6dd653b2d704">
