@@ -106,7 +106,7 @@ DELAY -Delay in Millisekunden
 
 ENTER -Enter Taste (gleich wie CTRL, ALT, SHIFT)
 
-Mehr [hier](https://gist.github.com/methanoliver/efebfe8f4008e167417d4ab96e5e3cac)
+mehr [hier](https://gist.github.com/methanoliver/efebfe8f4008e167417d4ab96e5e3cac)
 
 Probleme
 -
